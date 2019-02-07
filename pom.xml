@@ -62,12 +62,15 @@
 			<artifactId>webdrivermanager</artifactId>
 			<version>LATEST</version>
 		</dependency>
+<<<<<<< HEAD
 		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
 		<dependency>
 			<groupId>com.relevantcodes</groupId>
 			<artifactId>extentreports</artifactId>
 			<version>2.41.2</version>
 		</dependency>
+=======
+>>>>>>> 8dc879220ef7e710aa217356b3fd7297e98d0ceb
 
 	</dependencies>
 </project>

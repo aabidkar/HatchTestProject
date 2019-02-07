@@ -1,6 +1,9 @@
 package com.hatchtest.HatchTestProject;
 
+<<<<<<< HEAD
 import java.util.Date;
+=======
+>>>>>>> 8dc879220ef7e710aa217356b3fd7297e98d0ceb
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -42,12 +45,19 @@ public class Test {
 		
 	}
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		
 		Date date=new Date();
 		String currentDateAndTime = date.toString();
 		String modifiedTimeStamp = currentDateAndTime.replace(" ", "_").replace(":", "_");
 		String fileNameType = modifiedTimeStamp+".html";
 		System.out.println(fileNameType);
+=======
+
+		Test ts=new Test();
+		ts.dummy();
+
+>>>>>>> 8dc879220ef7e710aa217356b3fd7297e98d0ceb
 	}
 
 }
