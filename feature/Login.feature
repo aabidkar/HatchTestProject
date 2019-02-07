@@ -9,9 +9,4 @@ And user close a browser
 
 Examples:
 |username				|password	|
-<<<<<<< HEAD
 |orgadmin@piedmont.com	|h@tch		|
-=======
-|orgadmin@piedmont.com	|h@tch		|
-|orgadmin@piedmont.com	|123123		|
->>>>>>> 8dc879220ef7e710aa217356b3fd7297e98d0ceb
