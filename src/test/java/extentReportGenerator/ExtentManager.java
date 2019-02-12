@@ -15,13 +15,8 @@ public class ExtentManager {
 		ExtentReports eRport = new ExtentReports(reportFilePath, true, DisplayOrder.NEWEST_FIRST);
 		File reportConfigFile = new File("ReportsConfig.xml");
 		eRport.loadConfig(reportConfigFile);
-		eRport.addSystemInfo("TestNG Version", "7.0.0")
-		.addSystemInfo("Selenium WebDriver", "3.141.59")
-		.addSystemInfo("Executed By: ", "Amit Bidkar");
+		eRport.addSystemInfo("TestNG Version", "7.0.0").addSystemInfo("Selenium WebDriver", "3.141.59")
+				.addSystemInfo("Executed By: ", "Amit Bidkar");
 		return eRport;
-		
-		
-
 	}
-
 }

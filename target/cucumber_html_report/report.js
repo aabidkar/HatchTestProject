@@ -115,7 +115,7 @@ formatter.match({
   "location": "Login.user_visit_the_website()"
 });
 formatter.result({
-  "duration": 23902075319,
+  "duration": 7225152581,
   "status": "passed"
 });
 formatter.match({
@@ -132,35 +132,35 @@ formatter.match({
   "location": "Login.user_enters_a_Username_and_a_Password(String,String)"
 });
 formatter.result({
-  "duration": 705995928,
+  "duration": 166651450,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_clicks_on_a_Login_button()"
 });
 formatter.result({
-  "duration": 180656079,
+  "duration": 74659438,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_clicks_on_CHSC_option()"
 });
 formatter.result({
-  "duration": 10409005726,
+  "duration": 8568279221,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_verify_user_is_successfully_login()"
 });
 formatter.result({
-  "duration": 657572431,
+  "duration": 278385412,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_close_a_browser()"
 });
 formatter.result({
-  "duration": 864530128,
+  "duration": 266107418,
   "status": "passed"
 });
 });

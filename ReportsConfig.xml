@@ -17,7 +17,14 @@
 		<documentTitle>CHSC Automation Reports</documentTitle>
 
 		<!-- report name - displayed at top-nav -->
-		<reportName>CHSC Automation Report</reportName>
+		<reportName>
+			CHSC Automation Report
+
+			<![CDATA[
+					<img src='https://lh3.googleusercontent.com/-VhH6L60AXMA/XGJuV2HYiWI/AAAAAAAAAAQ/-R51j0GcQBMjZORvoU11fbaCGfGIcweyQCEwYBhgL/h49/logo.png' />
+            ]]>
+
+		</reportName>
 
 		<!-- global date format override -->
 		<!-- defaults to yyyy-MM-dd -->
@@ -39,7 +46,7 @@
 		<!-- custom styles -->
 		<styles>
             <![CDATA[
-                
+               
             ]]>
 		</styles>
 	</configuration>
